@@ -12,8 +12,8 @@ file_scp_symbol = "Data/sp_500_symbols.csv"
 table = pd.read_html(url)
 df = table[0]
 df.to_csv(file_scp_500)
-df.to_csv(file_scp_symbol, columns=['Symbol'],index=False,header=False)
+df.to_csv(file_scp_symbol, columns=['Symbol'],index=False,header=True)
 
-df.head()
+#df.head()
 
 print('done')
