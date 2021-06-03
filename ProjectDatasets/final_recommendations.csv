@@ -1,39 +1,43 @@
-ticker,Price/Book (mrq),Trailing P/E,Forward P/E 1,PEG Ratio (5 yr expected) 1,Price/Sales (ttm),Total Debt/Equity (mrq),Diluted EPS (ttm),Trailing Annual Dividend Yield 3,Forward Annual Dividend Yield 4,% Held by Insiders 1,% Held by Institutions 1,Return on Equity (ttm),Return on Assets (ttm),Quarterly Earnings Growth (yoy),current_price
-ACN,10.13,34.57,34.48,3.69,4.13,18.44,8.45,1.18%,1.21%,0.11%,73.54%,31.88%,11.57%,16.70%,289.52
-ARE,2.26,29.84,47.17,,12.03,58.83,6.01,2.36%,2.43%,1.13%,92.76%,7.01%,1.64%,118.10%,179.57
-AMAT,10.79,32.26,22.57,1.80,6.83,49.66,4.18,0.65%,0.71%,0.37%,82.74%,38.31%,14.14%,26.70%,137.3
-APTV,4.96,21.76,38.17,1.59,3.00,55.57,6.66,0.15%,,0.55%,97.73%,30.09%,3.27%,30.00%,145.2
-ANET,7.32,39.88,31.65,2.27,10.93,2.72,7.99,,,27.91%,65.04%,20.42%,9.89%,-29.80%,321.07
-AIZ,1.58,22.29,16.64,,0.98,39.14,6.99,1.64%,1.69%,1.00%,94.10%,7.61%,1.10%,9.10%,155.17
-ATO,1.84,20.15,20.53,2.90,4.49,71.05,5.15,2.27%,2.42%,1.01%,90.69%,9.60%,3.49%,21.80%,102.41
-ADP,14.21,33.94,30.40,3.54,5.78,41.53,5.77,1.87%,1.90%,0.11%,81.32%,44.07%,4.21%,-0.60%,195.14
-AVB,2.52,32.92,67.57,5.89,11.83,72.02,5.89,3.28%,3.28%,0.34%,94.12%,7.61%,2.33%,103.50%,194.77
-BIO,1.93,5.07,50.76,1.07,7.59,2.28,126.20,,,14.29%,81.20%,48.69%,2.43%,51.60%,648.34
-BIIB,3.7,13.53,14.37,6.24,3.25,71.72,19.29,,,0.64%,87.79%,26.49%,9.27%,-70.70%,269.46
-CB,1.28,21.73,14.64,0.96,2.13,32.00,7.79,1.83%,1.89%,0.52%,89.90%,6.16%,1.24%,106.10%,166.03
-CTAS,9.74,38.74,34.84,3.09,5.50,72.49,9.14,1.20%,0.85%,14.55%,66.34%,27.67%,9.58%,10.20%,349.36
-CME,2.83,35.32,30.67,4.98,15.22,15.45,5.87,1.64%,1.74%,0.46%,87.37%,8.02%,1.67%,-9.70%,204.69
-COO,3.38,9.08,33.33,3.11,8.28,35.17,45.38,0.01%,0.01%,0.57%,99.10%,46.27%,3.39%,"2,221.70%",409.65
-COST,10.55,38.17,37.04,4.09,0.93,63.66,9.78,0.75%,0.85%,0.22%,69.90%,26.61%,7.79%,2.10%,368.52
-CMI,4.77,21.85,18.66,1.77,1.97,51.82,12.01,2.01%,2.06%,0.44%,86.24%,20.75%,5.64%,67.00%,259.05
-DHI,2.73,11.39,11.29,0.86,1.50,33.69,8.63,0.76%,0.81%,9.92%,82.76%,26.60%,13.30%,92.60%,100.41
-RE,1.1,20.88,12.25,,1.10,21.34,12.78,2.32%,2.32%,1.26%,81.89%,5.45%,1.31%,-70.80%,266.0
-EXPD,7.03,27.23,24.81,4.21,1.87,16.45,4.07,0.94%,0.94%,0.60%,96.61%,28.73%,13.64%,44.60%,109.62
-FB,6.67,29.84,26.39,1.14,10.12,8.71,10.09,,,0.58%,80.50%,25.42%,13.95%,52.70%,303.04
-HUM,4.22,17.73,20.70,1.54,0.77,54.37,25.31,0.56%,0.62%,0.25%,96.92%,26.14%,9.73%,,446.14
-JBHT,6.57,32.98,26.11,1.74,1.81,47.81,5.13,0.64%,0.66%,20.47%,75.11%,21.89%,8.30%,39.80%,167.76
-MHK,1.66,28.16,18.83,,1.52,35.91,49.90,,,19.00%,78.84%,6.19%,3.45%,-6.20%,206.71
-NVR,5.81,19.58,14.51,4.84,2.38,52.08,248.33,,,5.28%,86.11%,35.67%,16.75%,41.60%,4929.53
-PKI,4.05,20.76,15.72,1.75,4.00,59.41,6.50,0.21%,0.21%,0.30%,97.16%,22.23%,8.50%,489.70%,134.98
-PFG,1.04,12.42,10.63,,1.18,27.89,5.05,3.57%,3.57%,0.43%,73.43%,8.98%,0.37%,57.10%,62.34
-PG,7.17,24.62,22.27,3.56,4.67,63.57,5.44,2.36%,2.60%,0.10%,66.14%,30.65%,9.64%,12.10%,131.26
-PGR,3.31,9.16,17.12,24.48,1.32,30.26,11.00,4.86%,0.40%,0.30%,83.94%,40.02%,8.62%,111.70%,99.86
-PHM,2.17,10.41,8.68,2.89,1.32,50.85,5.18,0.89%,1.04%,3.48%,90.32%,23.39%,9.68%,30.50%,54.79
-DGX,2.55,9.94,11.30,1.23,1.73,67.86,13.18,1.75%,1.89%,0.56%,92.96%,29.77%,12.45%,373.70%,132.27
-REGN,4.75,16.01,11.24,1.07,6.62,24.56,30.52,,,3.00%,91.00%,31.77%,12.88%,45.10%,501.17
-SWKS,7.14,30.07,20.96,1.32,8.12,4.21,6.33,0.98%,1.05%,0.32%,78.77%,24.58%,14.53%,98.10%,199.66
-TROW,5.27,17.89,14.75,1.75,6.65,1.66,9.98,2.02%,2.42%,0.97%,72.15%,28.85%,17.17%,43.70%,178.82
-TER,9.91,30.73,28.99,,7.71,21.42,4.28,0.30%,0.30%,0.32%,98.59%,42.53%,17.51%,57.00%,133.43
-UNH,5.46,22.76,22.08,1.73,1.47,65.54,17.59,1.25%,1.25%,0.61%,89.48%,26.15%,7.66%,43.80%,395.86
-VRTX,6.49,21.18,19.05,0.39,9.25,10.85,10.29,,,0.14%,95.03%,36.71%,17.87%,3.60%,216.97
-WLTW,2.78,30.44,20.33,1.65,3.24,61.53,7.65,1.19%,1.22%,0.25%,100.97%,9.58%,2.91%,-12.50%,231.3
+ticker,Security,SEC filings,GICS Sector,GICS Sub-Industry,Headquarters Location,Date first added,CIK,Founded,Price/Book (mrq),Trailing P/E,Forward P/E 1,PEG Ratio (5 yr expected) 1,Price/Sales (ttm),Total Debt/Equity (mrq),Diluted EPS (ttm),Trailing Annual Dividend Yield 3,Forward Annual Dividend Yield 4,% Held by Insiders 1,% Held by Institutions 1,Return on Equity (ttm),Return on Assets (ttm),Quarterly Earnings Growth (yoy),current_price
+PHM,PulteGroup,reports,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1984-04-30,822416,1956,2.35,10.74,8.30,2.77,1.40,50.85,5.18,0.80%,0.94%,3.50%,90.66%,23.39%,9.68%,30.50%,59.12
+CNC,Centene Corporation,reports,Health Care,Managed Health Care,"St. Louis, Missouri",2016-03-30,1071739,1984,1.34,14.32,11.53,1.00,0.31,69.07,4.19,,,1.15%,94.56%,9.74%,4.33%,"1,419.60%",61.74
+HOLX,Hologic,reports,Health Care,Health Care Equipment,"Marlborough, Massachusetts",2016-03-30,859737,1985,5.22,12.54,8.00,0.32,3.83,73.74,7.28,,,0.60%,97.52%,64.65%,21.16%,543.70%,65.55
+DHI,D. R. Horton,reports,Consumer Discretionary,Homebuilding,"Arlington, Texas",2005-06-22,882184,1978,2.82,11.77,10.88,0.72,1.55,34.32,8.63,0.74%,0.79%,10.01%,83.60%,26.60%,13.30%,92.60%,98.29
+PGR,Progressive Corp.,reports,Financials,Property & Casualty Insurance,"Mayfield Village, Ohio",1997-08-04,80661,1937,3.34,9.27,17.30,24.73,1.34,30.26,11.00,4.81%,0.39%,0.30%,84.04%,40.02%,8.62%,111.70%,100.74
+ATO,Atmos Energy,reports,Utilities,Gas Utilities,"Dallas, Texas",2019-02-15,731802,1906,1.82,19.92,20.28,2.86,4.44,71.05,5.15,2.30%,2.45%,1.01%,90.61%,9.60%,3.49%,21.80%,103.59
+EXPD,Expeditors,reports,Industrials,Air Freight & Logistics,"Seattle, Washington",2007-10-10,746515,1979,7.03,27.24,24.81,4.21,1.87,16.45,4.07,0.94%,0.94%,0.60%,96.61%,28.73%,13.64%,44.60%,109.86
+CINF,Cincinnati Financial,reports,Financials,Property & Casualty Insurance,"Fairfield, Ohio",1997-12-18,20286,1950,1.61,5.91,28.01,,1.84,7.61,18.85,2.18%,2.26%,7.43%,71.69%,31.93%,9.43%,,112.68
+TER,Teradyne,reports,Information Technology,Semiconductor Equipment,"North Reading, Massachusetts",2020-09-21,97210,1960,9.37,29.73,28.82,,7.56,21.42,4.28,0.31%,0.31%,0.32%,98.69%,42.53%,17.51%,57.00%,125.08
+PKI,PerkinElmer,reports,Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,31791,1937,3.91,20.08,15.22,1.75,3.87,59.41,6.50,0.21%,0.21%,0.30%,96.95%,22.23%,8.50%,489.70%,129.63
+DGX,Quest Diagnostics,reports,Health Care,Health Care Services,"Secaucus, New Jersey",2002-12-12,1022079,1967,2.55,9.96,11.31,1.23,1.73,67.86,13.18,1.75%,1.89%,0.56%,93.52%,29.77%,12.45%,373.70%,131.88
+AMAT,Applied Materials Inc.,reports,Information Technology,Semiconductor Equipment,"Santa Clara, California",1995-03-16,6951,1967,10.83,32.39,22.68,1.81,6.86,49.66,4.18,0.65%,0.71%,0.37%,82.88%,38.31%,14.14%,26.70%,132.71
+PG,Procter & Gamble,reports,Consumer Staples,Personal Products,"Cincinnati, Ohio",1957-03-04,80424,1837,7.1,24.36,22.08,3.47,4.62,63.57,5.44,2.39%,2.63%,0.10%,66.14%,30.65%,9.64%,12.10%,133.42
+APTV,Aptiv PLC,reports,Consumer Discretionary,Auto Parts & Equipment,"Dublin, Ireland",2012-12-24,1521332,1994,4.95,21.7,38.17,1.58,2.99,55.57,6.66,0.15%,,0.55%,97.69%,30.09%,3.27%,30.00%,143.89
+AIZ,Assurant,reports,Financials,Multi-line Insurance,"New York, New York",2007-04-10,1267238,1892,1.59,22.39,16.69,,0.98,39.14,6.99,1.63%,1.69%,1.00%,93.84%,7.61%,1.10%,9.10%,155.6
+JBHT,J. B. Hunt Transport Services,reports,Industrials,Trucking,"Lowell, Arkansas",2015-07-01,728535,1961,6.68,33.53,26.60,1.77,1.84,47.81,5.13,0.63%,0.70%,20.47%,75.15%,21.89%,8.30%,39.80%,170.71
+TROW,T. Rowe Price Group,reports,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",,1113169,1937,5.37,18.22,15.02,1.78,6.77,1.66,9.98,1.98%,2.38%,0.97%,72.39%,28.85%,17.17%,43.70%,179.2
+ARE,Alexandria Real Estate Equities,reports,Real Estate,Office REITs,"Pasadena, California",2017-03-20,1035443,1994,2.04,30.4,47.17,,12.17,60.11,5.74,2.39%,2.43%,1.13%,93.06%,6.40%,1.59%,-56.70%,181.1
+SWKS,Skyworks Solutions,reports,Information Technology,Semiconductors,"Woburn, Massachusetts",2015-03-12,4127,2002,7.4,31.16,21.74,1.37,8.41,4.21,6.33,0.95%,1.01%,0.32%,78.71%,24.58%,14.53%,98.10%,181.33
+ADP,Automatic Data Processing,reports,Information Technology,Data Processing & Outsourced Services,"Roseland, New Jersey",1981-03-31,8670,1949,14.21,32.71,29.24,3.40,5.52,41.51,5.76,0.48%,1.97%,0.11%,81.28%,44.28%,4.23%,-1.20%,186.99
+AVB,AvalonBay Communities,reports,Real Estate,Residential REITs,"Arlington, Virginia[3]",2007-01-10,915912,1978,2.49,32.51,66.67,5.82,11.69,72.02,5.89,3.32%,3.32%,0.34%,94.05%,7.61%,2.33%,103.50%,192.0
+CME,CME Group Inc.,reports,Financials,Financial Exchanges & Data,"Chicago, Illinois",2006-08-11,1156375,1848,2.76,38.22,30.03,4.88,15.83,12.97,5.33,1.69%,1.77%,0.46%,87.42%,7.20%,1.02%,-25.00%,201.99
+MHK,Mohawk Industries,reports,Consumer Discretionary,Home Furnishings,"Calhoun, Georgia",2013-12-23,851968,1878,1.74,29.5,19.72,,1.59,35.91,49.90,,,19.00%,78.95%,6.19%,3.45%,-6.20%,205.5
+VRTX,Vertex Pharmaceuticals Inc,reports,Health Care,Biotechnology,"Cambridge, Massachusetts",2013-09-23,875320,1989,6.31,20.59,18.52,0.38,8.99,10.85,10.29,,,0.14%,95.40%,36.71%,17.87%,3.60%,218.2
+CMI,Cummins Inc.,reports,Industrials,Industrial Machinery,"Columbus, Indiana",1965-03-31,26172,1919,4.67,21.38,18.25,1.73,1.93,51.82,12.01,2.06%,2.10%,0.44%,86.22%,20.75%,5.64%,67.00%,252.04
+MSFT,Microsoft Corp.,reports,Information Technology,Systems Software,"Redmond, Washington",1994-06-01,789019,1975,14.14,34.4,30.77,2.50,12.04,60.41,7.34,0.87%,0.89%,0.07%,72.37%,44.99%,13.51%,43.80%,252.18
+WLTW,Willis Towers Watson,reports,Financials,Insurance Brokers,"London, United Kingdom",2016-01-05,1140536,2016,2.96,32.44,21.69,1.76,3.45,61.53,7.65,1.12%,1.14%,0.55%,100.70%,9.58%,2.91%,-12.50%,258.86
+BIIB,Biogen Inc.,reports,Health Care,Biotechnology,"Cambridge, Massachusetts",2003-11-13,875045,1978,3.74,13.67,14.45,6.24,3.29,71.72,19.29,,,0.63%,87.78%,26.49%,9.27%,-70.70%,267.33
+BRK-B,Berkshire Hathaway,reports,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,1067983,1839,1.44,15.61,25.51,,2.32,27.11,26667.81,,,0.18%,68.60%,9.83%,5.15%,22.90%,274.95
+RE,Everest Re Group Ltd.,reports,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,1095073,1973,1.13,13.04,12.50,,1.04,21.34,12.78,2.28%,2.28%,1.26%,81.91%,5.45%,1.31%,-70.80%,276.95
+ACN,Accenture,reports,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",2011-07-06,1467373,1989,10.16,34.66,34.72,3.72,4.14,18.44,8.45,1.18%,1.20%,0.11%,73.60%,31.88%,11.57%,16.70%,289.97
+FB,"Facebook, Inc.",reports,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-23,1326801,2004,7.0,28.21,28.90,1.25,10.09,9.08,11.67,,,0.58%,80.57%,28.24%,15.80%,93.70%,325.08
+CTAS,Cintas Corporation,reports,Industrials,Diversified Support Services,"Mason, Ohio",2001-03-01,723254,1929,9.66,38.45,34.60,3.06,5.46,72.49,9.14,1.21%,0.85%,14.55%,66.31%,27.67%,9.58%,10.20%,345.14
+COST,Costco Wholesale Corp.,reports,Consumer Staples,Hypermarkets & Super Centers,"Issaquah, Washington",1993-10-01,909832,1976,10.56,38.19,37.04,4.10,0.93,63.66,9.78,0.75%,0.85%,0.22%,69.97%,26.61%,7.79%,2.10%,372.09
+UNH,UnitedHealth Group Inc.,reports,Health Care,Managed Health Care,"Minnetonka, Minnesota",1994-07-01,731766,1977,5.47,22.83,22.12,1.73,1.47,65.54,17.59,1.25%,1.25%,0.58%,89.68%,26.15%,7.66%,43.80%,398.8
+COO,The Cooper Companies,reports,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,711404,1958,3.34,9.0,33.00,3.08,8.20,35.17,45.38,0.01%,0.01%,0.57%,99.07%,46.27%,3.39%,"2,221.70%",410.89
+HUM,Humana Inc.,reports,Health Care,Managed Health Care,"Louisville, Kentucky",,49071,1961,4.21,17.69,20.66,1.54,0.77,53.62,28.15,0.58%,0.63%,0.25%,96.89%,28.04%,8.91%,75.10%,445.24
+REGN,Regeneron Pharmaceuticals,reports,Health Care,Biotechnology,"Tarrytown, New York",2013-05-01,872589,1988,4.69,15.89,11.15,1.06,6.57,24.56,30.52,,,2.92%,91.62%,31.77%,12.88%,45.10%,481.3
+BIO,Bio-Rad Laboratories,reports,Health Care,Life Sciences Tools & Services,"Hercules, California",2020-06-22,12208,1952,1.94,5.08,50.76,1.07,7.59,0.12,137.30,,,14.29%,80.85%,48.49%,2.40%,42.50%,630.13
+GOOGL,Alphabet Inc. (Class A),reports,Communication Services,Interactive Media & Services,"Mountain View, California",2014-04-03,1652044,1998,6.97,31.89,34.36,1.61,8.89,12.28,75.04,,,0.13%,81.21%,23.69%,10.34%,162.30%,2353.5
+GOOG,Alphabet Inc. (Class C),reports,Communication Services,Interactive Media & Services,"Mountain View, California",2006-04-03,1652044,1998,7.08,32.39,34.97,1.64,9.03,12.28,75.04,,,5.98%,68.81%,23.69%,10.34%,162.30%,2410.12
+NVR,"NVR, Inc.",reports,Consumer Discretionary,Homebuilding,"Reston, Virginia",2019-09-26,906163,1980,6.0,20.23,14.99,5.00,2.46,52.08,248.33,,,5.28%,86.05%,35.67%,16.75%,41.60%,5018.1
